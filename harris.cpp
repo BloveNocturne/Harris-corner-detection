@@ -1,8 +1,5 @@
 /******************************************************************************
     > File Name: harris.cpp
-    > Author: 08015436 汪懋荣
-    > Mail: 2663264295@qq.com
-    > Created Time: 2018年05月07日 星期一 18时05分51秒
 
   @IMPORTANT: tested with GNU g++ 5.4.0 compiler. If you encounter any problems
   when compiling this file, please re-compile this file with GNU g++ compiler
